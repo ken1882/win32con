@@ -1,5 +1,5 @@
 # Constants from winuser.h
-module Win32con
+module Win32CON
   MNGO_NOINTERFACE = 0x00
   MNGO_NOERROR = 0x01
   MNGOF_TOPGAP = 0x01
